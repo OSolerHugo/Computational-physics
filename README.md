@@ -1,2 +1,2 @@
 # Computational-physics
-Some solutions of the book Computational physics, Nicholas Giordano
+Some solutions write in python of the book Computational physics, Nicholas Giordano
